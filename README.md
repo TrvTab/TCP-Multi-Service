@@ -20,23 +20,23 @@ in the command line
 
 
 
-Possible client requests: 
+### Possible client requests: 
+  
+  add {x} {y}  which executes x + y
 
-add {x} {y}  which executes x + y
+  multiply {x} {y} which executes x * y
 
-multiply {x} {y} which executes x * y
+  divide {x} {y} which executes  x / y
 
-divide {x} {y} which executes  x / y
+  factorial {x} which executes x!
 
-factorial {x} which executes x!
+  fibonacci {x} which executes the fibonacci number of x
 
-fibonacci {x} which executes the fibonacci number of x
+  logarithm {x} {y} which executes the log of x with a base of y
 
-logarithm {x} {y} which executes the log of x with a base of y
+  stats NHL {Points | Goals | Plus/Minus | GAA | SavePercentage | Wins}
 
-stats NHL {Points | Goals | Plus/Minus | GAA | SavePercentage | Wins}
-
-weather {postal code}
+  weather {postal code}
 
 
 
