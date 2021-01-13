@@ -7,14 +7,14 @@ Compiled using Makefile with the command "make".
 
 After compilation, the server can be run by executing
 
-./server {address} {post}
+./server {address} {port}
 
 in the command line
 
 
 Clients can then be run with
 
-./client {address} {post}
+./client {address} {port}
 
 in the command line
 
