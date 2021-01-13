@@ -32,7 +32,7 @@ in the command line
 
   fibonacci {x} which executes the fibonacci number of x
 
-  logarithm {x} {y} which executes the log of x with a base of y
+  log {x} {y} which executes the log of x with a base of y
 
   stats NHL {Points | Goals | Plus/Minus | GAA | SavePercentage | Wins}
 
