@@ -1,0 +1,40 @@
+NHL Points
+Points Leader: Leon Draisaitl
+Team: EDM
+Points: 110
+NHL Points
+Points Leader: Leon Draisaitl
+Team: EDM
+Points: 110
+NHL Points
+Points Leader: Leon Draisaitl
+Team: EDM
+Points: 110
+NHL Points
+Points Leader: Leon Draisaitl
+Team: EDM
+Points: 110
+NHL Goals
+Goals Leader: David Pastrnak
+Team: BOS
+Goals: 48
+NHL Plus/Minus
+Plus/Minus Leader: Ryan Graves
+Team: COL
+Plus/Minus: 40
+NHL GAA
+GAA Leader: Tuukka Rask
+Team: BOS
+GAA: 2.12
+NHL SavePercentage
+Save Percentage Leader: Anton Khudobin
+Team: DAL
+Save Percentage: .930
+NHL Wins
+Goalie Wins Leader: Andrei Vasilevskiy
+Team:  TB
+Goalie Wins: 35
+NHL Goals
+Goals Leader: David Pastrnak
+Team: BOS
+Goals: 48
